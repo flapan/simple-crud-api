@@ -1,1 +1,1 @@
-Introduction to go by doing a simple CRUD API
+Introduction to Go by doing a simple CRUD API
